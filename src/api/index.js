@@ -9,7 +9,7 @@ const api = async (url, type, params) => {
   let result = null;
 
   let myHeaders = new Headers();
-  myHeaders.append("apikey", "Vndmw21emFGNQewLxu1wM61u4ilBkIp0");
+  myHeaders.append("apikey", "KEbV3fhW4MsLgWid4LTuj9D1oOl0Fmgk");
 
   let requestOptions = {
     method: type,
